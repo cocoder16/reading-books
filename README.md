@@ -7,3 +7,4 @@
 - [실용주의 프로그래머 (데이비드 토머스 / 앤드류 헌트)](https://github.com/cocoder16/reading-books/blob/master/ThePragmaticProgrammer)
 - [클린 코드 (로버트 C. 마틴)](https://github.com/cocoder16/reading-books/tree/master/CleanCode)
 - [클린 아키텍처 (로버트 C. 마틴)](https://github.com/cocoder16/reading-books/tree/master/CleanArchitecture)
+- [리팩터링 (마틴 파울러)](https://github.com/cocoder16/reading-books/blob/master/Refactoring.md)
