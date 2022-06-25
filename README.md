@@ -8,3 +8,4 @@
 - [클린 코드 (로버트 C. 마틴)](https://github.com/cocoder16/reading-books/tree/master/CleanCode)
 - [클린 아키텍처 (로버트 C. 마틴)](https://github.com/cocoder16/reading-books/tree/master/CleanArchitecture)
 - [리팩터링 (마틴 파울러)](https://github.com/cocoder16/reading-books/blob/master/Refactoring.md)
+- [객체지향의 사실과 오해 (조영호)](https://github.com/cocoder16/reading-books/blob/master/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
